@@ -6,3 +6,10 @@
 
  1. vuejsで
 
+
+# デプロイ方法
+
+s3を作成(最初のみ)
+ビルドファイルをアップロード(いったんec2で。いずれはcodebuildやらcodepipelineやら)
+cloudfrontの設定
+
